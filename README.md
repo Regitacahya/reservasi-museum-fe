@@ -13,7 +13,7 @@ Sebelum memulai, pastikan anda telah menginstal beberapa hal berikut :
   1. composer
   2. node js
 
-##Cloning
+## Cloning
   1. Clone repositori ini di mesin anda
      ```
       git clone https://github.com/Regitacahya/reservasi-museum-fe.git
