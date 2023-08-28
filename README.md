@@ -1,5 +1,4 @@
-repo created_at = 09 - 09 -2022 
-=======
+<sub>repo created_at 09/09/2022</sub>
 # [About Code](https://museumsolo.com/)
 Repositori ini berisi bagian frontend dari reservasi museum solo. Code ini dibangun menggunakan Library **ReactJS 17.0.2**
 
