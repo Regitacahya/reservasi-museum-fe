@@ -1,0 +1,29 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+@import '@material-tailwind/react/tailwind.css';
+@import 'react-date-range/dist/styles.css'; 
+@import 'react-date-range/dist/theme/default.css'; 
+@import url('https://fonts.googleapis.com/css2?family=Nunito&display=swap');
+
+
+@layer utilities {
+    .-translate-x-1\/2 {
+        --tw-translate-x: -50% !important;
+    }
+}
+
+@font-face {
+    font-family: "Poppins";
+    src: url("../fonts/Poppins-SemiBold.ttf");
+  }
+
+@font-face {
+    font-family: "Nunito";
+    src: url("../fonts/Nunito-VariableFont_wght.ttf");
+  }
+
+  @font-face {
+    font-family: "Merriweather";
+    src: url("../fonts/MerriweatherSans-VariableFont_wght.ttf");
+  }
