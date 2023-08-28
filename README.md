@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-## Time Line
-Membuat Repository : 09 - 09 -2022 
+repo created_at = 09 - 09 -2022 
 =======
 # [About Code](https://museumsolo.com/)
 Repositori ini berisi bagian frontend dari reservasi museum solo. Code ini dibangun menggunakan Library **ReactJS 17.0.2**
